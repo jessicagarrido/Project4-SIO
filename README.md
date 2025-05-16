@@ -1,8 +1,11 @@
-# 🐆 La Panthère – SEO Optimization - Project 4
+# 🐆 La Panthère – SEO Optimization 
+![Capture d’écran 2025-05-16 164032](https://github.com/user-attachments/assets/4bc31bee-1f98-44fb-8d7d-88a4b585b266)
+
+
 ## 💻 OpenClassrooms Web Developer Path
 
 > 🔍 Improve SEO and accessibility of an existing website  
-> 🎓 OpenClassrooms Web Developer Path – Project 4
+> 🎓 OpenClassrooms Web Developer Path 
 
 ---
 
